@@ -1,0 +1,13 @@
+.btn-btn-primary{
+    background-color: teal;
+    color: salmon;
+}
+
+.btn-btn-primary hover{
+    background-color: teal;
+}
+
+.btn-btn-secondary{
+    background-color: tomato;
+    color: lawngreen;
+}

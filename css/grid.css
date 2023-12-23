@@ -1,0 +1,55 @@
+.bg-blue{
+    background-color: blue;
+    font-size: 50px;
+    
+}
+
+.bg-red{
+    background-color: red;
+    font-size: 50px;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-pink{
+    background-color: pink;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-grey{
+    background-color: grey;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-greenyello{
+    background-color: greenyellow;
+}
+
+.bg-darkblue{
+    background-color: darkblue;
+}
+
+.bg-gold{
+    background-color: darkred;
+    font-size: 50px;
+}
+
+.div-size-height{
+    height: 240px;
+}
